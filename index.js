@@ -4,3 +4,4 @@ let Directions = {
   "E": "East",
   "W": "West",
 };
+document.getElemenetById('result').innerHTML = Directions;
